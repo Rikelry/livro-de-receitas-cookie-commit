@@ -3,14 +3,14 @@
 ## Branches
 - Branch principal: `main`
 - Crie novas branches a partir da `main` no formato:  
-  `feature/carnes`
+  `feature-bolos`
 
 ## Commits
 Use o padrão:
 <tipo>: <descrição>
 
 Exemplo:  
-`feat: adicionar receita de carnes`
+`feat: adicionar receita de boloss`
 
 Tipos: `feat`, `fix`, `docs`, `refactor`, `chore`, `style`
 
