@@ -1,11 +1,16 @@
-# Livro de Receitas 🍲
+# Livro de Receitas – Cookie Commit 🍴
 
-Bem-vindo ao **Livro de Receitas Digitais**!  
-Este projeto reúne diversas receitas organizadas por categorias, servindo como um acervo colaborativo para quem gosta de cozinhar e aprender novas criações.
+Bem-vindo ao nosso **Livro de Receitas Colaborativo**!  
+Aqui reunimos pratos deliciosos criados pela equipe Byte Gourmet, aplicando na prática os conceitos de **Gerência de Configuração de Software** com Git e GitHub.
+
+---
 
 **📚 Categorias**
-- [Massas](./massas/)
+- [Bolos](bolos/)
+
+---
 
 **🧾 Receitas**
-Esta seção será atualizada conforme novas receitas forem adicionadas ao repositório.  
-Contribuições são bem-vindas — envie sua receita por *pull request*!
+*(Esta seção será atualizada conforme novas receitas forem adicionadas ao repositório.)*
+
+- [Pudim de Leite](bolos/pudim-de-leite.md)
