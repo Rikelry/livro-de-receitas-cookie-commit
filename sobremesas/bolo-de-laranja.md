@@ -1,58 +1,29 @@
 # Bolo de laranja
 
 ## Ingredientes
-2 colheres (sopa) de óleo ou azeite
 
-
-1 cebola média picada
-
-
-2 dentes de alho picados
-
-
-2 batatas médias picadas
-
-
-2 cenouras médias em rodelas
-
-
-1 chuchu em cubos (opcional)
-
-
-1 abobrinha em cubos
-
-
-1 tomate picado (sem pele e sementes, se preferir)
-
-
-1/2 xícara de macarrão para sopa (ou arroz, se preferir)
-
-
-1 litro e meio de água quente ou caldo de legumes
-
-
-Sal e pimenta-do-reino a gosto
-
-
-Cheiro-verde ou salsinha para finalizar
+- 4 ovos
+- 2 xícaras (chá) de açúcar
+- 1 xícara (chá) de óleo
+- suco de 2 laranjas
+- casca de 1 laranja
+- 2 xícaras (chá) de farinha de trigo
+- 1 colher (sopa) de fermento
+- suco de 2 laranjas
+- casca de 1 laranja
+- 2 xícaras (chá) de farinha de trigo
+- 1 colher (sopa) de fermento
 
 ## Modo de Preparo
-Em uma panela grande, aqueça o óleo e refogue a cebola e o alho até dourar.
 
+1. Em uma tigela, bata os ovos com o açúcar até obter um creme claro e fofo.
+2. Adicione o óleo, o suco e a casca de laranja, misturando bem.
+3. Incorpore a farinha de trigo e o fermento, mexendo delicadamente até a massa ficar homogênea.
+4. Despeje a massa em uma forma untada e enfarinhada.
+5. Leve ao forno preaquecido a 180°C por cerca de 35-40 minutos, ou até que um palito inserido no centro do bolo saia limpo.
+6. Deixe esfriar antes de desenformar e servir.
 
-Acrescente o tomate e deixe refogar até desmanchar um pouco.
-
-
-Junte as batatas, cenouras, chuchu e abobrinha. Misture bem.
-
-
-Despeje a água ou o caldo de legumes quente e deixe cozinhar até os legumes ficarem macios (cerca de 20 minutos).
-
-
-Adicione o macarrão (ou arroz) e cozinhe por mais 10 minutos, até ficar macio.
-
-
-Tempere com sal, pimenta e finalize com cheiro-verde.
+---
 
 [Voltar à Categoria](.)  
 [Voltar ao Menu Principal](../menu.md)
