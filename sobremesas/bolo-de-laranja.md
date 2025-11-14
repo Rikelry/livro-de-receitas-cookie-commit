@@ -1,55 +1,44 @@
 # Bolo de laranja
 
 ## Ingredientes
-2 colheres (sopa) de óleo ou azeite
 
+ovo
 
-1 cebola média picada
+4 ovos
 
+açúcar
 
-2 dentes de alho picados
+2 xícaras (chá) de açúcar
 
+óleo
 
-2 batatas médias picadas
+1 xícara (chá) de óleo
 
+suco de laranja
 
-2 cenouras médias em rodelas
+suco de 2 laranjas
 
+casca de laranja
 
-1 chuchu em cubos (opcional)
+casca de 1 laranja
 
+farinha de trigo
 
-1 abobrinha em cubos
+2 xícaras (chá) de farinha de trigo
 
+fermento
 
-1 tomate picado (sem pele e sementes, se preferir)
-
-
-1/2 xícara de macarrão para sopa (ou arroz, se preferir)
-
-
-1 litro e meio de água quente ou caldo de legumes
-
-
-Sal e pimenta-do-reino a gosto
-
-
-Cheiro-verde ou salsinha para finalizar
+1 colher (sopa) de fermento
 
 ## Modo de Preparo
-Em uma panela grande, aqueça o óleo e refogue a cebola e o alho até dourar.
+Bata no liquidificador os ovos, o açúcar, o óleo, o suco e a casca da laranja.
 
 
-Acrescente o tomate e deixe refogar até desmanchar um pouco.
+Passe para uma tigela e acrescente a farinha de trigo e o fermento.
 
 
-Junte as batatas, cenouras, chuchu e abobrinha. Misture bem.
+Leve para assar em uma forma com furo central, untada e enfarinhada, por mais ou menos 30 minutos.
 
 
-Despeje a água ou o caldo de legumes quente e deixe cozinhar até os legumes ficarem macios (cerca de 20 minutos).
+Desenforme o bolo e molhe com suco de laranja.
 
-
-Adicione o macarrão (ou arroz) e cozinhe por mais 10 minutos, até ficar macio.
-
-
-Tempere com sal, pimenta e finalize com cheiro-verde.
