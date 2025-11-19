@@ -5,9 +5,12 @@ Aqui reunimos pratos deliciosos criados pela equipe Byte Gourmet, aplicando na p
 
 ---
 
-**📚 Categorias**
-- [Bolos](bolos/)
-
+## Categorias
+- [Carnes](carnes/)
+- [Massas](massas/)
+- [Saladas] (saladas/)
+- [Sobremesas](sobremesas/)
+- [Sopas] (sopas/)
 ---
 
 **🧾 Receitas**
