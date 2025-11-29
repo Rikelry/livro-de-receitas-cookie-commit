@@ -31,4 +31,5 @@ Aqui reunimos pratos deliciosos criados pela equipe Byte Gourmet, aplicando na p
 - [Sopa cremosa de frango](sopas/sopa-cremosa-de-frango.md)
 - [Sopa de legumes caseira](sopas/sopa-de-legumes-caseira.md)
 - [Torta de chocolate](sobremesas/torta-de-chocolate.md)
+- [Mousse de morango](sobremesas/mousse-de-morango.md)
 - [Sopa cremosa de milho com bacon](sopas/Sopa-cremosa-de-milho-com-bacon.md)
