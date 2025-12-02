@@ -32,6 +32,7 @@ Criar um livro digital de receitas organizado em categorias, onde cada integrant
 
 ## 📚 Estrutura do Projeto
 
+```text
 ├── README.md
 ├── CONTRIBUTING.md
 ├── menu.md
@@ -53,6 +54,7 @@ Criar um livro digital de receitas organizado em categorias, onde cada integrant
 └── sobremesas/
     ├── bolo-de-laranja.md
     └── pudim-de-leite-condensado.md
+```
 
 ---
 
