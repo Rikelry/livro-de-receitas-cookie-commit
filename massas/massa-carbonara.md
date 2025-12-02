@@ -2,7 +2,7 @@
 
 ---
 
-### 📋 Ingredientes
+### Ingredientes
 
 - 300g de Spaghetti ou Rigatoni (massa longa ou curta)
 - 150g de Guanciale (bochecha de porco curada) ou Pancetta
@@ -13,7 +13,7 @@
 
 ---
 
-### 🔪 Modo de Preparo
+### Modo de Preparo
 
 #### 1. Preparo do Guanciale
 
