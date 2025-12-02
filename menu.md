@@ -27,6 +27,7 @@ Aqui reunimos pratos deliciosos criados pela equipe Byte Gourmet, aplicando na p
 - [Salada caesar](saladas/salada-caesar.md)
 - [salada de frango com maionese](saladas/salada-de-frango-com-maionese.md)
 - [Salada grega](saladas/salada-grega.md)
+- [salada de cuzcuz](saladas/salada-de-cuzcuz.md)
 - [Bolo de laranja](sobremesas/bolo-de-laranja.md)
 - [Pudim de leite condensado](sobremesas/pudim-de-leite-condensado.md)
 - [Sopa cremosa de frango](sopas/sopa-cremosa-de-frango.md)
