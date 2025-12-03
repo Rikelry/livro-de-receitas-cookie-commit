@@ -27,7 +27,7 @@
 - Observações: Autor seguiu o padrão; nenhum comflito.
 
 -  **PR #93 - Adicionado uma nova receita de sobremesas**
-- Autora Externo: @clarinhamartins
+- Autora Externa: @clarinhamartins
 - Link: https://github.com/Rikelry/livro-de-receitas-cookie-commit/pull/93
 - Categoria: sobremesas
 - Arquivos: sobremesas/mousse-de-morango.md (adicionado); menu.md (atualizado);
@@ -45,7 +45,7 @@
 - Observações: Autor seguiu o padrão mas não atualizou o menu.md; menu.md foi posteriomente atualizado pelos contribuidores. nenhum conflito.
 
 -  **PR #96 - Adicionado uma nova receita de massas**
-- Autora Externo: @clarinhamartins
+- Autora Externa: @clarinhamartins
 - Link: https://github.com/Rikelry/livro-de-receitas-cookie-commit/pull/96
 - Categoria: massas
 - Arquivos: massas/massa-carbonara.md (adicionado); menu.md (atualizado);
@@ -54,7 +54,7 @@
 - Observações: Autora seguiu o padrão; nenhum conflito.
 
 -  **PR #99 - Adicionado uma nova receita de sopas**
-- Autora Externo: @Gisele002
+- Autora Externa: @Gisele002
 - Link: https://github.com/Rikelry/livro-de-receitas-cookie-commit/pull/99
 - Categoria: sopas
 - Arquivos: sopas/Sopa-Cremosa-de-Milho-com-Frango (adicionado);
@@ -63,13 +63,31 @@
 - Observações: Autora seguiu o padrão; menu.md foi posteriomente atualizado pelo Autor Externo. nenhum conflito.
 
 -  **PR #100 - Adicionado uma nova receita de carness**
-- Autora Externo: @Gisele002
+- Autora Externa: @Gisele002
 - Link: https://github.com/Rikelry/livro-de-receitas-cookie-commit/pull/100
 - Categoria: carnes
 - Arquivos: carnes/Carne-De-Panela-Com-Batatas (adicionado);
 - Revisores: @Vcoder-00 (aprovou), @larrySkeleton2017 (aprovou), @Rikelry (aprovou)
 - Status: Aprovado e merge realizado em 2025-12-02
 - Observações: Autora seguiu o padrão; menu.md foi posteriomente atualizado pelo Autor Externo. nenhum conflito.
+
+-  **PR #105 - Adicionado uma nova receita de sopas**
+- Autor Externo: @jose2gabriel
+- Link: https://github.com/Rikelry/livro-de-receitas-cookie-commit/pull/105
+- Categoria: sopas
+- Arquivos: sopas/sopa-de-tomate-caseira.md (adicionado); menu.md (atualizado);
+- Revisores: @Vcoder-00 (aprovou), @Cassiosampaio2016 (aprovou), @Rikelry (aprovou)
+- Status: Aprovado e merge realizado em 2025-12-02
+- Observações: Autor seguiu o padrão; nenhum conflito.
+
+-  **PR #106 - Atualizado manu.md**
+- Autora Externa: @Gisele002
+- Link: https://github.com/Rikelry/livro-de-receitas-cookie-commit/pull/106
+- Categoria: nenhuma
+- Arquivos: menu.md (atualizado);
+- Revisores: @Vcoder-00 (aprovou), @Cassiosampaio2016 (aprovou), @Rikelry (aprovou)
+- Status: Aprovado e merge realizado em 2025-12-02
+- Observações: Autora seguiu o padrão; menu.md atualizado. nenhum conflito.
 
 ## Conflitos registrados
 - nenhum.
