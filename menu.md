@@ -34,3 +34,5 @@ Aqui reunimos pratos deliciosos criados pela equipe Byte Gourmet, aplicando na p
 - [Torta de chocolate](sobremesas/torta-de-chocolate.md)
 - [Mousse de morango](sobremesas/mousse-de-morango.md)
 - [Sopa cremosa de milho com bacon](sopas/Sopa-cremosa-de-milho-com-bacon.md)
+- [Carne de Panela com Batatas](carnes/Carne-De-Panela-Com-Batatas.md)
+- [Sopa Cremosa de Milho com Frango](sopas/Sopa-Cremosa-de-Milho-com-Frango.md)
