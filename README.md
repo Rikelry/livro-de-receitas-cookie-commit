@@ -1,6 +1,6 @@
-# 🍴 Livro de Receitas – Cookie Commit
+# 🍴 Livro de Receitas – Cooking Commits
 
-Bem-vindo ao **Livro de Receitas Colaborativo da equipe Cookie Commit**!  
+Bem-vindo ao **Livro de Receitas Colaborativo da equipe Cooking Commits**!  
 Este repositório foi desenvolvido como parte da atividade prática de **Gerência de Configuração de Software**, aplicando Git e GitHub em um ambiente real de colaboração.
 
 ---
